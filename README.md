@@ -22,7 +22,7 @@
 ## Using Languages
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=44328&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=44328&format=png&color=FFFFFF" title="C++">
     <img height="40" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" title="Python">
 </p>
 
